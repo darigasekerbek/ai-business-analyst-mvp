@@ -38,7 +38,7 @@ cd ai_project
 pip install -r requirements.txt
 Для MVP внешние библиотеки не требуются.
 
-Запуск
+## Запуск
 Обычный режим
 
 python console_mvp.py
